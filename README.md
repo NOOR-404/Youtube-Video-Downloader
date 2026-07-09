@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a3544a53-14b8-4c31-9868-060f5476161a?raw=true" width="90%" />
+</p>
+<h1 align="center">🎥 YT-DOWNLOADER TOOL</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Main--Language-Python-yellow?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Developer-NOOR--404-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-ACTIVE-green?style=for-the-badge" />
+</p>
 ---
 ### 📂 **PROJECT DETAILS**
 - **COMMAND TYPE** : YouTube Video & Audio Automation Downloader
