@@ -1,28 +1,30 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a3544a53-14b8-4c31-9868-060f5476161a?raw=true" width="90%" />
+  <img src="https://github.com/user-attachments/assets/1d8700d4-7f69-4932-a7db-43401416355b" width="48%" />
+  <img src="https://github.com/user-attachments/assets/9964ea64-4d24-4e5f-ac2e-26927026e30e" width="48%" />
 </p>
 
 <h1 align="center">🎥 YT-DOWNLOADER TOOL</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Main--Language-Python-yellow?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Developer-NOOR--404-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-TEMPORARY%20OFF-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-COMING SOON-green?style=for-the-badge" />
 </p>
 
 ---
 
 ### 📂 **PROJECT DETAILS**
-- **COMMAND TYPE** : YouTube Video & Audio Automation Downloader Tool.
+- **COMMAND TYPE** : YouTube Video & Audio Automation Downloader
 
 ---
 
 ### 🛠️ **ABOUT THE PROJECT**
 - **Developer** : **NOOR-404**
+- **Language** : **Python 3.13**
 - **Function** : High-speed automation script to download YouTube media in Video or MP3/Audio formats.
 
-> [!CAUTION]
-> If any errors or problems occur while running the tool, please contact the Owner immediately through the official links below.
+> [!NOTE]
+> If you encounter any bugs or technical issues while executing the script, please reach out via the official contact channels below.
 
 ---
 
@@ -40,7 +42,7 @@
 
 ```bash
 cd $HOME
-rm -rf SEA-XD
-git clone --depth=1 https://github.com/NOOR-404/Youtube-Video-Downloader.git
-cd SEA-XD
-python3 SEA.py
+rm -rf Youtube-Video-Audio-Downloader
+git clone --depth=1 https://github.com/NOOR-404/Youtube-Video-Audio-Downloader.git
+cd Youtube-Video-Audio-Downloader
+python3 Yt.py
