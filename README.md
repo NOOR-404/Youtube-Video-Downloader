@@ -45,4 +45,4 @@ cd $HOME
 rm -rf Youtube-Video-Audio-Downloader
 git clone --depth=1 https://github.com/NOOR-404/Youtube-Video-Audio-Downloader.git
 cd Youtube-Video-Audio-Downloader
-python3 Yt.py
+python3 YT.py
