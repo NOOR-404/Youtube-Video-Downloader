@@ -1,4 +1,4 @@
-#!/data/data/com.termux/files/usr/bin/python3.13
+#!/data/data/com.termux/files/usr/bin/python3.14
 # -*- coding: utf-8 -*-
 import os, sys, time
 from yt_dlp import YoutubeDL
