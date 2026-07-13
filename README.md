@@ -6,9 +6,9 @@
 <h1 align="center">🎥 YT-DOWNLOADER TOOL</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3.14-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Developer-NOOR--404-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-COMING SOON-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-ACTIVE-green?style=for-the-badge" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
 
 ### 🛠️ **ABOUT THE PROJECT**
 - **Developer** : **NOOR-404**
-- **Language** : **Python 3.13**
+- **Language** : **Python 3.14**
 - **Function** : High-speed automation script to download YouTube media in Video or MP3/Audio formats.
 
 > [!NOTE]
